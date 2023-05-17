@@ -1,0 +1,17 @@
+D:\1302\Week 2\week3\textBoxCalc\textBoxCalc\bin\Debug\net6.0-windows\textBoxCalc.exe
+D:\1302\Week 2\week3\textBoxCalc\textBoxCalc\bin\Debug\net6.0-windows\textBoxCalc.deps.json
+D:\1302\Week 2\week3\textBoxCalc\textBoxCalc\bin\Debug\net6.0-windows\textBoxCalc.runtimeconfig.json
+D:\1302\Week 2\week3\textBoxCalc\textBoxCalc\bin\Debug\net6.0-windows\textBoxCalc.dll
+D:\1302\Week 2\week3\textBoxCalc\textBoxCalc\bin\Debug\net6.0-windows\textBoxCalc.pdb
+D:\1302\Week 2\week3\textBoxCalc\textBoxCalc\obj\Debug\net6.0-windows\textBoxCalc.csproj.AssemblyReference.cache
+D:\1302\Week 2\week3\textBoxCalc\textBoxCalc\obj\Debug\net6.0-windows\textBoxCalc.Form1.resources
+D:\1302\Week 2\week3\textBoxCalc\textBoxCalc\obj\Debug\net6.0-windows\textBoxCalc.csproj.GenerateResource.cache
+D:\1302\Week 2\week3\textBoxCalc\textBoxCalc\obj\Debug\net6.0-windows\textBoxCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\1302\Week 2\week3\textBoxCalc\textBoxCalc\obj\Debug\net6.0-windows\textBoxCalc.AssemblyInfoInputs.cache
+D:\1302\Week 2\week3\textBoxCalc\textBoxCalc\obj\Debug\net6.0-windows\textBoxCalc.AssemblyInfo.cs
+D:\1302\Week 2\week3\textBoxCalc\textBoxCalc\obj\Debug\net6.0-windows\textBoxCalc.csproj.CoreCompileInputs.cache
+D:\1302\Week 2\week3\textBoxCalc\textBoxCalc\obj\Debug\net6.0-windows\textBoxCalc.dll
+D:\1302\Week 2\week3\textBoxCalc\textBoxCalc\obj\Debug\net6.0-windows\refint\textBoxCalc.dll
+D:\1302\Week 2\week3\textBoxCalc\textBoxCalc\obj\Debug\net6.0-windows\textBoxCalc.pdb
+D:\1302\Week 2\week3\textBoxCalc\textBoxCalc\obj\Debug\net6.0-windows\textBoxCalc.genruntimeconfig.cache
+D:\1302\Week 2\week3\textBoxCalc\textBoxCalc\obj\Debug\net6.0-windows\ref\textBoxCalc.dll
